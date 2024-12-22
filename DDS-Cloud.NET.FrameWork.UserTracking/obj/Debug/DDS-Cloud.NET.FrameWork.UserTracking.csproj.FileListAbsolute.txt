@@ -1,0 +1,7 @@
+D:\User File\Desktop\DDS-Cloud.NET.FrameWork.UserTracking\DDS-Cloud.NET.FrameWork.UserTracking\bin\Debug\DDS-Cloud.NET.FrameWork.UserTracking.exe.config
+D:\User File\Desktop\DDS-Cloud.NET.FrameWork.UserTracking\DDS-Cloud.NET.FrameWork.UserTracking\bin\Debug\DDS-Cloud.NET.FrameWork.UserTracking.exe
+D:\User File\Desktop\DDS-Cloud.NET.FrameWork.UserTracking\DDS-Cloud.NET.FrameWork.UserTracking\bin\Debug\DDS-Cloud.NET.FrameWork.UserTracking.pdb
+D:\User File\Desktop\DDS-Cloud.NET.FrameWork.UserTracking\DDS-Cloud.NET.FrameWork.UserTracking\obj\Debug\DDS-Cloud.NET.FrameWork.UserTracking.csproj.AssemblyReference.cache
+D:\User File\Desktop\DDS-Cloud.NET.FrameWork.UserTracking\DDS-Cloud.NET.FrameWork.UserTracking\obj\Debug\DDS-Cloud.NET.FrameWork.UserTracking.csproj.CoreCompileInputs.cache
+D:\User File\Desktop\DDS-Cloud.NET.FrameWork.UserTracking\DDS-Cloud.NET.FrameWork.UserTracking\obj\Debug\DDS-Cloud.NET.FrameWork.UserTracking.exe
+D:\User File\Desktop\DDS-Cloud.NET.FrameWork.UserTracking\DDS-Cloud.NET.FrameWork.UserTracking\obj\Debug\DDS-Cloud.NET.FrameWork.UserTracking.pdb
